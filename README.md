@@ -1,4 +1,4 @@
-# Logistic-Regression-Model-TikTok-Verified-Status-Prediction
+# Python: Logistic Regression Model; TikTok Project
 
 ## Introduction
 Navigating the complexities of user verification on platforms like TikTok is key for content moderation and analysis. This project builds a logistic regression model in Python to predict a user's verified status based on video features, such as duration, view counts, and transcription text length. Using a real-world TikTok dataset, it covers exploratory data analysis (EDA), preprocessing (including handling class imbalance via upsampling), model construction, and evaluation to estimate the probability of verification—a binomial outcome.
